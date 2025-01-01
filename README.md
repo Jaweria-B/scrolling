@@ -5,3 +5,4 @@ built a django app to demostrate social-media posts mechanism
 2. In the web-app, as the user scrolls and reaches to the bottom of the document, new posts will be loaded
 3. An infinite scroll mechanism wil be created
 # scrolling
+# scrolling
